@@ -15,6 +15,10 @@ A taxa realmente está caindo? Existe chance de reincidencia da doença?
 # Dados
 Os dados utilizados no projeto estão divididos em dois arquivos, um deles com informções da população infantil diponível para tomar a vacina da poliomielite, o outro arquivo contém os dados de cobertura de vacinação da poliomielite no país.
 
+# Conclusões
+
+Ao final das análises, dei minhas conclusões sobre o projeto e os aprendizados dessa jornada.
+
 # Referencias Bibliográficas
 
 BARBOSA, Camila Leal et al. Cobertura vacinal para Poliomielite na Amazônia brasileira e os riscos à reintrodução do poliovírus. Research, Society and Development, v. 10, n. 7, p. e42810716768-e42810716768, 2021.
